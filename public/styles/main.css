@@ -1,6 +1,15 @@
-.temp {
-	border : 1px solid black;
+@font-face {
+	font-family: 'Terminal';
+	src : url('../fonts/terminal.ttf');
 }
 .header {
 	height : 80px;
+}
+#logo {
+	float : left;
+}
+#meeting_text {
+	font-family: 'Terminal';
+	float : left;
+	margin : 20px 100px 0 150px;
 }
