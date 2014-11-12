@@ -5,6 +5,16 @@
 .header {
 	height : 80px;
 }
+#calendar {
+	width : 1000px;
+	float : left;
+}
+#skills {
+	float : left;
+	margin-left : 50px;
+	margin-top : 50px;
+	width : 200px;
+}
 #logo {
 	float : left;
 }
