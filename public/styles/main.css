@@ -6,8 +6,7 @@
 	height : 80px;
 }
 #calendar {
-	width : 950px;
-	float : left;
+	width : 100%;
 }
 #skills {
 	float : left;
